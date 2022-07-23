@@ -1,1 +1,2 @@
-# ICTC-DIT.github.io
+# Campus Tech Community of leading EDTECH Startup ineuron.ai
+
